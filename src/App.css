@@ -1,0 +1,12 @@
+.calculator {
+  border: 2px solid rgb(128, 123, 123);
+  background-color: rgb(26, 25, 25);
+  width: 200px;
+  border-radius: 7px;
+  display: block;
+}
+.main {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
