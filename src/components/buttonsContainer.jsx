@@ -20,7 +20,6 @@ const Buttons = ({ handleButtonClick }) => {
     "0",
     "=",
     ".",
-    "%",
   ];
   return (
     <>
